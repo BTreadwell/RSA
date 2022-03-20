@@ -77,4 +77,6 @@ def get_prime():
 """
 a = get_prime()
 b = get_prime()
+
+print(a, b)
 """
